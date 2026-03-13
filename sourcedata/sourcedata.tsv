@@ -1,2 +1,2 @@
 source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds002766	3	600	162	261	810	102	96	558365512512	3182937444	689340138	1127808.02444458	1392.3555857340496	306145440	377957.3333333333	anat,fmap,func
+ds002766	3	600	162	261	810	102	96	558365512512	3182937444	689340138	n/a	n/a	n/a	n/a	anat,fmap,func
