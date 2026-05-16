@@ -1,2 +1,2 @@
-source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds002766	3	200	54	87	270	34	32	186121837504	1060979148	689340138	375936.00814819336	1392.3555857340496	102048480	377957.3333333333	anat,fmap,func
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds002766	3	200	54	87	270	34	32	186121837504	1060979148	689340138	375936.00814819336	1392.3555857340496	102048480	377957.3333333333	motor,rest	301442	{"1.1":205,"2.2":65}	anat,fmap,func
